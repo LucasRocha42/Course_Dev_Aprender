@@ -32,7 +32,7 @@ nova_tarefa = {'completed': False,
 resultado_post = requests.post("https://jsonplaceholder.typicode.com/todos/", nova_tarefa)
 #pprint(resultado_post.json())
 
-# put - alterar recurso existente 
+# put - alterar recurso existente  
 tarefa_alterada = {'completed': False,
  'title': 'Seila32',
  'userId': 1}
