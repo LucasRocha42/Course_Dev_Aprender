@@ -5,3 +5,4 @@
 # Onde encontrar APIs oficiais e não-oficiais 
 # Github
 # APIs não oficial - api unnofficial api
+# Navagadn sem saber ingles
