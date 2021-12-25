@@ -5,4 +5,4 @@
 # Onde encontrar APIs oficiais e não-oficiais 
 # Github
 # APIs não oficial - api unnofficial api
-# Navagadn sem saber ingles
+# Navagadn sem saber ingles - google tradutor, pegar o link do site e colocar no tradutor 
